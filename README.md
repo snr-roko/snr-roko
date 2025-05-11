@@ -11,6 +11,7 @@ I like Software
 ### Frameworks & Libraries
 - **API Development:** Django, FastAPI, Express.js
 - **Testing:** pytest, Jest
+- **Frontend:** React
 
 ### Databases
 - **SQL:** PostgreSQL, MySQL
