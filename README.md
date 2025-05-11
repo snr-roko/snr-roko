@@ -1,4 +1,4 @@
-# Hello, I'm Rabbi
+# I'm Rabbi
 
 I like Software
 
