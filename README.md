@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Rabbi
 
-<!--
-**snr-roko/snr-roko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like Software
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- **Proficient:** Python, JavaScript, HTML/CSS
+- **Learning:** Java, Go
+
+### Frameworks & Libraries
+- **API Development:** Django, FastAPI, Express.js
+- **Testing:** pytest, Jest
+
+### Databases
+- **SQL:** PostgreSQL, MySQL
+- **NoSQL:** MongoDB
+
+### DevOps & Tools
+- Docker
+- AWS
+- Git
+
+## Current Focus
+API Development 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/rabbi-agyei/)
