@@ -1,6 +1,6 @@
 # Hello, I'm Rabbi
 
-I do Software
+I like Software
 
 ## Tech Stack
 
