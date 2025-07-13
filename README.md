@@ -6,12 +6,12 @@ I like Software
 
 ### Languages
 - **Proficient:** Python, JavaScript, HTML/CSS
-- **Learning:** Java, Go
+- **Learning:** Java
 
 ### Frameworks & Libraries
 - **API Development:** Django, FastAPI, Express.js
 - **Testing:** pytest, Jest
-- **Frontend:** React
+- **Frontend:** React, Nextjs
 
 ### Databases
 - **SQL:** PostgreSQL, MySQL
@@ -20,7 +20,7 @@ I like Software
 ### DevOps & Tools
 - Docker
 - AWS
-- Git
+- Terraform
 
 ## Current Focus
 API Development 
