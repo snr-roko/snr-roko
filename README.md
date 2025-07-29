@@ -5,13 +5,13 @@ I like Software
 ## Tech Stack
 
 ### Languages
-- **Proficient:** Python, JavaScript, HTML/CSS
+- **Proficient:** Python, JavaScript, Java
 - **Learning:** Java
 
 ### Frameworks & Libraries
-- **API Development:** Django, FastAPI, Express.js
+- **API Development:** Django, SpringBoot, FastAPI, Express.js
 - **Testing:** pytest, Jest
-- **Frontend:** React, Nextjs
+- **Frontend:** React, Next.js
 
 ### Databases
 - **SQL:** PostgreSQL, MySQL
@@ -21,8 +21,9 @@ I like Software
 - Docker
 - AWS
 - Terraform
+- Github Actions
 
 ## Current Focus
-API Development 
+API Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/rabbi-agyei/)
