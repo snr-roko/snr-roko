@@ -6,10 +6,10 @@ I like Software
 
 ### Languages
 - **Proficient:** Python, JavaScript, Java
-- **Learning:** Java
+- **Learning:**
 
 ### Frameworks & Libraries
-- **API Development:** Django, SpringBoot, FastAPI, Express.js
+- **API Development:** Django, SpringBoot, Express.js
 - **Testing:** pytest, Jest
 - **Frontend:** React, Next.js
 
