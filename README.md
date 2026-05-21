@@ -6,12 +6,11 @@ I like Software
 
 ### Languages
 - **Proficient:** Python, JavaScript, Java
-- **Learning:**
+- **Learning:** Dart
 
 ### Frameworks & Libraries
 - **API Development:** Django, SpringBoot, Express.js
-- **Testing:** pytest, Jest
-- **Frontend:** React, Next.js
+- **Frontend & Mobile:** React, Next.js, React Native
 
 ### Databases
 - **SQL:** PostgreSQL, MySQL
